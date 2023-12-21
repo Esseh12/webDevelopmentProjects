@@ -1,0 +1,38 @@
+.whole{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+
+.email{
+    padding: 10px;
+    width: 250px;
+    border: 2px solid whitesmoke;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.container{
+    text-align: center;
+    display: flex; 
+    gap: 50px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.item{
+    text-align: center;
+}
+
+.icon{
+    width: 50px; 
+    height: 50px;
+    fill: #3498db;
+}
+.text{
+    margin-top: 5px;
+}
