@@ -35,7 +35,7 @@ Feel free to contribute to this repository by:
 
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
-- <a href="gbenmoese788@gmail.com">Email</a>
+Email: Gbenmoese788@gmail.com
 ---
 
 Feel free to customize this README to suit your preferences and include any additional information you find relevant. Happy learning!
