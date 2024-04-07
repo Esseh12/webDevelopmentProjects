@@ -1,16 +1,14 @@
----
-
 # Web Development Learning Repository
 
 This repository contains materials and projects related to my journey in learning web development. Below is an overview of the contents:
 
 ## Contents
 
-1. **Tutorials:** This directory contains code snippets, exercises, and projects from various web development tutorials and courses I'm following.
+1. Tutorials: This directory contains code snippets, exercises, and projects from various web development tutorials and courses I'm following.
 
-2. **Projects:** This directory houses my personal web development projects, including websites, web applications, and experiments.
+2. Projects: This directory houses my personal web development projects, including websites, web applications, and experiments.
 
-3. **Resources:** Here, you'll find useful resources such as cheat sheets, documentation, articles, and reference materials related to web development technologies.
+3. Resources: Here, you'll find useful resources such as cheat sheets, documentation, articles, and reference materials related to web development technologies.
 
 ## Getting Started
 
@@ -36,6 +34,3 @@ Feel free to contribute to this repository by:
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 Email: Gbenmoese788@gmail.com
----
-
-Feel free to customize this README to suit your preferences and include any additional information you find relevant. Happy learning!
