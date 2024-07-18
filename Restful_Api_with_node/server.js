@@ -4,7 +4,7 @@
 const http = require('http');
 const app = require('./app')
 //assign port for server to run
-const port = 3003;
+const port = 3002;
 // create a server
 const server = http.createServer(app);
 //listen on port
